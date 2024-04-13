@@ -1,4 +1,4 @@
-flask
-pandas
-numpy
-flask_ngrok
+Flask
+Unicorn
+Pandas
+Numpy
