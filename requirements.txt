@@ -3,5 +3,3 @@ Gunicorn
 Altair
 Pandas
 Numpy
-Ast
-scikit-learn
