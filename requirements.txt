@@ -4,4 +4,4 @@ Altair
 Pandas
 Numpy
 Ast
-Sklearn
+scikit-learn
