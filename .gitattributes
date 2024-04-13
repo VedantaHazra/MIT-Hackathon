@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+/Users/vedantahazra/MIT-Hackathon/req_data_merged.csv[[:space:]] filter=lfs diff=lfs merge=lfs -text
+re_data_merged.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
