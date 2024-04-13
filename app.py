@@ -28,5 +28,5 @@ def home(zip_code, age, address, income, gender, race, veteran_status, education
     calculate_risks,valid_variable_cnt, category_risks, cluster_risks = calculate_risk_scores(feature_data)
     return calculate_risks
 
-if __name__ == "__main__":
-    app.run()
+# if __name__ == "__main__":
+#     app.run()
