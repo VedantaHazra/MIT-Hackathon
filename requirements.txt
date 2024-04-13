@@ -1,2 +1,12 @@
 Flask
 Gunicorn
+altair
+os
+pandas
+numpy
+csv
+ast
+json
+requests
+flask_ngrok
+sklearn
