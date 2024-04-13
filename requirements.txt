@@ -3,3 +3,4 @@ Gunicorn
 Altair
 Pandas
 Numpy
+Requests
