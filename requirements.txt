@@ -1,10 +1,6 @@
 Flask
 Gunicorn
-altair
-pandas
-numpy
-ast
-json
-requests
-flask_ngrok
-sklearn
+Altair
+Pandas
+Numpy
+Sklearn
