@@ -3,4 +3,5 @@ Gunicorn
 Altair
 Pandas
 Numpy
+Ast
 Sklearn
