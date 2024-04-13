@@ -2,7 +2,7 @@ Flask
 Gunicorn
 altair
 pandas
-numpys
+numpy
 ast
 json
 requests
